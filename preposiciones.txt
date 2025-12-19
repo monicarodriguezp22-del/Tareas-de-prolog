@@ -1,0 +1,20 @@
+para negar se ocupa "¬"
+
+La luna no es un planeta. ¬planeta(luna) ¬p(L)
+La luna -> constante de individuo
+planeta -> propiedad
+
+
+la tierra gira alrededor del sol
+tierra -> constante de individuo
+sol -> constante de individuo
+gira alrededor -> propiedad 
+gira(tierra,sol) g(t,s)
+
+
+
+todo planeta es un satelite.
+A -> cuantificador universal
+planeta->propiedad
+satelite->propiedad
+AxP(x) -> S(x)
