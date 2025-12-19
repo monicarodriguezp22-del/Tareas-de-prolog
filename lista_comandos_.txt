@@ -1,0 +1,1 @@
+#1 ?- consult("/home/hotson/Documentos/Tareas-de-prolog/factorial.pl"). ejecutar el programa prolog
